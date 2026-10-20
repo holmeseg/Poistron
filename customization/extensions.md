@@ -11,28 +11,28 @@ tags:
 
 # VS Code Extensions
 
-This document lists the curated VS Code extensions for this workspace. The table pairs each extension's display name with the ID used by the VS Code command-line interface.
+This document lists the curated VS Code extensions for this workspace, their command-line IDs, and a brief description of each extension.
 
-| Extension name | Extension ID |
-| --- | --- |
-| Pastum | `atsyplenkov.pastum` |
-| Spell Right | `ban.spellright` |
-| Peacock | `johnpapa.vscode-peacock` |
-| Start Git Bash | `mccarter.start-git-bash` |
-| Rainbow CSV | `mechatroner.rainbow-csv` |
-| Python Debugger | `ms-python.debugpy` |
-| Python | `ms-python.python` |
-| Python Environments | `ms-python.vscode-python-envs` |
-| Jupyter | `ms-toolsai.jupyter` |
-| Jupyter Keymap | `ms-toolsai.jupyter-keymap` |
-| Jupyter Notebook Renderers | `ms-toolsai.jupyter-renderers` |
-| Jupyter Cell Tags | `ms-toolsai.vscode-jupyter-cell-tags` |
-| Jupyter Slide Show | `ms-toolsai.vscode-jupyter-slideshow` |
-| R Debugger | `rdebugger.r-debugger` |
-| R | `reditorsupport.r` |
-| R Syntax | `reditorsupport.r-syntax` |
-| Rainbow Brackets | `tal7aouy.rainbow-bracket` |
-| Markdown All in One | `yzhang.markdown-all-in-one` |
+| Extension name | Extension ID | Description |
+| --- | --- | --- |
+| Pastum | `atsyplenkov.pastum` | Converts copied text, HTML, or CSV tables into dataframe code for languages such as R and Python. |
+| Spell Right | `ban.spellright` | Checks spelling in comments, strings, and supported document types. |
+| Peacock | `johnpapa.vscode-peacock` | Customizes workspace colors to distinguish windows or projects. |
+| Start Git Bash | `mccarter.start-git-bash` | Opens a Git Bash terminal from VS Code. |
+| Rainbow CSV | `mechatroner.rainbow-csv` | Highlights CSV columns and provides tools for working with delimited data. |
+| Python Debugger | `ms-python.debugpy` | Enables Python debugging with breakpoints and interactive inspection. |
+| Python | `ms-python.python` | Adds Python language support, editing features, and interpreter selection. |
+| Python Environments | `ms-python.vscode-python-envs` | Discovers and manages Python environments for projects. |
+| Jupyter | `ms-toolsai.jupyter` | Supports editing and running Jupyter notebooks in VS Code. |
+| Jupyter Keymap | `ms-toolsai.jupyter-keymap` | Adds familiar keyboard shortcuts for working with Jupyter notebooks. |
+| Jupyter Notebook Renderers | `ms-toolsai.jupyter-renderers` | Renders rich notebook outputs such as plots and interactive visualizations. |
+| Jupyter Cell Tags | `ms-toolsai.vscode-jupyter-cell-tags` | Adds support for tagging notebook cells. |
+| Jupyter Slide Show | `ms-toolsai.vscode-jupyter-slideshow` | Helps create slideshows from tagged notebook cells. |
+| R Debugger | `rdebugger.r-debugger` | Enables debugging of R code in VS Code. |
+| R | `reditorsupport.r` | Adds R language support and common development features. |
+| R Syntax | `reditorsupport.r-syntax` | Provides syntax highlighting for R code. |
+| Rainbow Brackets | `tal7aouy.rainbow-bracket` | Uses distinct colors to help match nested brackets and delimiters. |
+| Markdown All in One | `yzhang.markdown-all-in-one` | Adds Markdown editing shortcuts, previews, and formatting tools. |
 
 ## Prerequisites
 
