@@ -63,6 +63,7 @@ $extensions = @(
     'mccarter.start-git-bash'
     'mechatroner.rainbow-csv'
     'eamodio.gitlens'
+    'google.geminicodeassist'
     'ms-python.debugpy'
     'ms-python.python'
     'ms-python.vscode-pylance'
