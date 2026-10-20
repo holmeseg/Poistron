@@ -21,6 +21,7 @@ This document lists the curated VS Code extensions for this workspace, their com
 | Start Git Bash | `mccarter.start-git-bash` | Opens a Git Bash terminal from VS Code. |
 | Rainbow CSV | `mechatroner.rainbow-csv` | Highlights CSV columns and provides tools for working with delimited data. |
 | GitLens | `eamodio.gitlens` | Adds Git history, blame annotations, and repository insights in the editor. |
+| Gemini Code Assist* | `google.geminicodeassist` | Provides AI-powered coding assistance from Google Gemini. |
 | Python Debugger | `ms-python.debugpy` | Enables Python debugging with breakpoints and interactive inspection. |
 | Python | `ms-python.python` | Adds Python language support, editing features, and interpreter selection. |
 | Pylance | `ms-python.vscode-pylance` | Adds Python code completion, navigation, type information, and diagnostics. |
