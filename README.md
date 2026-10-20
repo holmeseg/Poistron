@@ -35,6 +35,31 @@ Explore the [Positron feature overview](https://positron.posit.co/features.html)
 - **Open-source IDE:** Positron is open source and does not require a paid IDE license. Optional extensions, AI providers, or hosted services may have their own terms, fees, or usage limits.
 - **Pilot before switching:** Evaluate representative projects and workflows first, including Git operations, database connections, package environments, and report rendering, before making Positron the team's primary IDE.
 
+## Install Positron
+
+Download Positron from the [official download page](https://positron.posit.co/download.html). Choose the installer for your operating system and computer architecture; consult that page for current operating-system support and installer options.
+
+### macOS
+
+1. Select the macOS download that matches your Mac's processor (Apple silicon or Intel, when offered).
+2. Open the downloaded disk image and follow the included installation instructions, typically dragging Positron into the Applications folder.
+3. Open Positron from Applications. If macOS asks you to confirm that you want to open an app downloaded from the internet, follow your organization's security guidance.
+
+### Windows
+
+1. Select the Windows installer that matches your system, when architecture options are offered.
+2. Run the downloaded installer and follow its prompts. If installation requires elevated permissions, follow your organization's software-installation policy.
+3. Launch Positron from the Start menu.
+
+### Language runtimes
+
+Positron can be installed independently of R and Python, but you need the relevant language runtime to run projects in that language:
+
+- **Python:** Use an actively supported Python version. Positron can offer to install Python using `uv`; alternatively, use a supported environment manager such as `venv`, `uv`, `pyenv`, or `conda`.
+- **R:** Install R 4.2 or later if you plan to use R. On Windows, install Rtools as well only if your work requires building R packages from source.
+
+See the official [Positron download and prerequisites guide](https://positron.posit.co/download.html) for current details.
+
 ## Repository contents
 
 - [`.vscode/settings.json`](./.vscode/settings.json) — workspace color customizations, including Peacock theme colors.
