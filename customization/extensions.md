@@ -41,7 +41,7 @@ This document lists the curated VS Code extensions for this workspace, their com
 | Rainbow Brackets | `tal7aouy.rainbow-bracket` | Uses distinct colors to help match nested brackets and delimiters. |
 | Markdown All in One | `yzhang.markdown-all-in-one` | Adds Markdown editing shortcuts, previews, and formatting tools. |
 
-* I am not currently able to connect Gemini Code Assist to VS Code, so I am using GitHub Copilot AI.
+* Gemini Code Assist is currently unavailable in VS Code, so GitHub Copilot is being used instead.
 
 ## Prerequisites
 
