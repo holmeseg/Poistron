@@ -62,6 +62,7 @@ See the official [Positron download and prerequisites guide](https://positron.po
 
 ## Repository contents
 
+- [Posit Open Source Cheat Sheets](https://opensource.posit.co/resources/cheatsheets/) — quick-reference guides for R, Python, Quarto, and other Posit tools.
 - [`.vscode/settings.json`](./.vscode/settings.json) — workspace color customizations, including Peacock theme colors.
 - [`.github/prompts/`](./.github/prompts/) — reusable prompts for documenting files and recommending filenames. Invoke them in Copilot Chat with `/doc` and `/rename_file`.
 - [`customization/extensions.md`](./customization/extensions.md) — extension names and IDs, with PowerShell instructions for writing the install list and installing extensions.
