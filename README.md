@@ -17,7 +17,7 @@ Poistron contains workspace customization files for Positron and VS Code, includ
 
 Positron is an open-source IDE designed for data science workflows. Its familiar VS Code-style environment brings code, data, and analysis tools together while allowing teams to evaluate it alongside their existing tools.
 
-Explore the [Positron feature overview](https://positron.posit.co/features.html) for details.
+Explore the [Positron feature overview](https://positron.posit.co/features.html) for details. View the [Positron Benefits for Data Science Workflows](./docs/Positron-Benefits.pdf) PDF for a visual overview.
 
 ### Key benefits
 
